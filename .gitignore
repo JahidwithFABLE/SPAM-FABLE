@@ -1,0 +1,26 @@
+# Input datasets and results are local, never public by default.
+/data/*
+!/data/README.md
+/runs/
+*.parquet
+*.csv.gz
+*.nc
+*.nc4
+*.tif
+*.tiff
+*.shp
+*.dbf
+*.shx
+*.gpkg
+*.xlsx
+*.xls
+*.zip
+*.exe
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
+*.log
+.DS_Store

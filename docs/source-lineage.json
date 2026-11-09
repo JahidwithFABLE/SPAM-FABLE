@@ -1,0 +1,44 @@
+[
+  {
+    "filename": "scripts/01-native-spam.py",
+    "original_name": "01_SPAM_FABLE_clean_start_native_source_rebuild_v4.py",
+    "original_sha256": "30fa2c06e6c1c6b344a99ff3e6630896ecddd212bd7ab7708863057c5f520c8c",
+    "packaged_sha256": "f4f9f1b9f3b8c681dff58a770285b736dd0e83dbdacb717ca180058d25acb349",
+    "changes": "comment formatting; portable naming; Stage03 added separate native/mapping CLI roots; Stage04 legacy root default uses local data tree"
+  },
+  {
+    "filename": "scripts/02-map-crops.py",
+    "original_name": "02_SPAM_FABLE_clean_start_mapping_rebuild.py",
+    "original_sha256": "d1d1a883b0cc240dd9da31c7802ffd26e2779e837b5417cd55ff388ab0161f15",
+    "packaged_sha256": "cd85f0e4aa590ae19ccb6e919cd79114b86a99b214bda1a475de13914e4ab7ab",
+    "changes": "comment formatting; portable naming; Stage03 added separate native/mapping CLI roots; Stage04 legacy root default uses local data tree"
+  },
+  {
+    "filename": "scripts/03-map-grids.py",
+    "original_name": "03_SPAM_FABLE_clean_start_observed_grid_mapping_v2.py",
+    "original_sha256": "efe6862093824196b74b01b2f75c455f45060fe512c24c7c6d797613216e635c",
+    "packaged_sha256": "6aeaeb6daf43ea4aaa59ee3972d921a4bd8d79cc2a70ab3cd5239be86b4cddad",
+    "changes": "comment formatting; portable naming; Stage03 added separate native/mapping CLI roots; Stage04 legacy root default uses local data tree"
+  },
+  {
+    "filename": "scripts/04-complete-2000.py",
+    "original_name": "04_SPAM_FABLE_clean_start_2000_country_completion.py",
+    "original_sha256": "713efa5a08604a3dae7fd28ac5df595ff6048e3ccc0ce0622883b207cf1d7e3b",
+    "packaged_sha256": "75c9b6e8edf5180ab587cc94b48defa82caaac6c845cbd78c40c3f76664d128f",
+    "changes": "comment formatting; portable naming; Stage03 added separate native/mapping CLI roots; Stage04 legacy root default uses local data tree"
+  },
+  {
+    "filename": "scripts/05-interpolate-2015.py",
+    "original_name": "05_SPAM_FABLE_clean_start_2015_spatial_interpolation.py",
+    "original_sha256": "9d54923e78f025fa2ac80a4b23853c1d9cef85519fe0376d9d273e8723c57d6f",
+    "packaged_sha256": "5a3ae8c602ffaf1edebf43eb9c134fe94f92d108e7ec2bf8fc0a440ed3f0eedc",
+    "changes": "comment formatting; portable naming; Stage03 added separate native/mapping CLI roots; Stage04 legacy root default uses local data tree"
+  },
+  {
+    "filename": "scripts/06-build-history.py",
+    "original_name": "06_SPAM_FABLE_clean_start_historical_calculator_assembly.py",
+    "original_sha256": "1c07a0a40a8bf5502d4694e45e5aec50f8a988e7f0080ecf5dcfb0e864062bbd",
+    "packaged_sha256": "65c2e331be88fb95fdd2aec2d05ab1986ddc2e896015728ab907fd3c87385e7a",
+    "changes": "comment formatting; portable naming; Stage03 added separate native/mapping CLI roots; Stage04 legacy root default uses local data tree"
+  }
+]
